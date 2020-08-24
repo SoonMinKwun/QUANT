@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'QuantApp',
+=======
+    'blog',
+>>>>>>> 1b6bccf3a16dcfb1872f827f893f62ddda6549ab
 ]
 
 MIDDLEWARE = [
