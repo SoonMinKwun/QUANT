@@ -1,6 +1,6 @@
 from django.db import models
 from django.utils import timezone
-
+#테스트
 # Create your models here.
 class Post(models.Model):
     author = models.ForeignKey('auth.User', on_delete=models.CASCADE)
